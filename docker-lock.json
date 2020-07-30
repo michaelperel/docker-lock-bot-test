@@ -3,7 +3,7 @@
 		"Dockerfile": [
 			{
 				"name": "golang",
-				"tag": "latest",
+				"tag": "1.14",
 				"digest": "2aa6447d32de9bd2156c5aa379acb2766c196415626d06d8f5fcc2167e6f8844"
 			}
 		]
