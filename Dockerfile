@@ -1,1 +1,1 @@
-FROM golang:1.14
+FROM python:3.6
