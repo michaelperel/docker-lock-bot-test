@@ -2,9 +2,9 @@
 	"dockerfiles": {
 		"Dockerfile": [
 			{
-				"name": "ubuntu",
+				"name": "golang",
 				"tag": "latest",
-				"digest": "5d1d5407f353843ecf8b16524bc5565aa332e9e6a1297c73a92d3e754b8a636d"
+				"digest": "2aa6447d32de9bd2156c5aa379acb2766c196415626d06d8f5fcc2167e6f8844"
 			}
 		]
 	},
