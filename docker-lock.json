@@ -9,9 +9,9 @@
 		],
 		"Dockerfile": [
 			{
-				"name": "python",
-				"tag": "3.7",
-				"digest": "e5e361e98022e4425b1272888ca59e2bf6fe518a59b43bcfcf206a709f9fc5e6"
+				"name": "golang",
+				"tag": "1.14",
+				"digest": "2aa6447d32de9bd2156c5aa379acb2766c196415626d06d8f5fcc2167e6f8844"
 			}
 		]
 	},
