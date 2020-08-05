@@ -4,14 +4,14 @@
 			{
 				"name": "node",
 				"tag": "lts",
-				"digest": "f0b04f08e276f6c9ed1b369163a098a4b7b71522004b14cebc365c3532a86d21"
+				"digest": "d0738468dfc7cedb7d260369e0546fd7ee8731cfd67136f6023d070ad9679090"
 			}
 		],
 		"Dockerfile": [
 			{
 				"name": "golang",
-				"tag": "1.14",
-				"digest": "2aa6447d32de9bd2156c5aa379acb2766c196415626d06d8f5fcc2167e6f8844"
+				"tag": "1.13",
+				"digest": "b39f2026ca9ead26fe724e81fba19554154c12a12f11d40d2e0df196d7b6875d"
 			}
 		]
 	},
