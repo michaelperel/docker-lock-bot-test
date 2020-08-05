@@ -4,7 +4,7 @@
 			{
 				"name": "node",
 				"tag": "lts",
-				"digest": "8c9b1bc1ad5c287483974ea460ca5edb72329d3fe918f6426b7d9aa3632512ce"
+				"digest": "d0738468dfc7cedb7d260369e0546fd7ee8731cfd67136f6023d070ad9679090"
 			}
 		],
 		"Dockerfile": [
